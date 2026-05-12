@@ -132,3 +132,5 @@ console.log("Salary :", employee.salary);
 let finalSalary = calculateBonus(employee.salary, 5000);
 
 console.log("Salary after bonus :", finalSalary);
+
+// end of task3.js //
